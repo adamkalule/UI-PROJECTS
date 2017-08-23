@@ -1,0 +1,99 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.first{
+    height: 640px;
+    background-color: gainsboro;
+}
+.second{
+    height: 640px;
+    background-color: #3c4043;
+}
+.box1{
+    height: 200px;
+    background-color: #f2f6f7;
+    width: 855px;
+}
+.omada1{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.omada2{
+    width: 35px;
+    height: 30px;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+.box2{
+    height: 100px;
+    width: 855px;
+    background-color: #ee7e67;
+    color: white;
+}
+.more{
+    color: white;
+    font-size: 21px;
+    margin-top: 30px;
+    text-align: right;
+}
+.control{
+    height: 60px;
+    width: 340px;
+    margin-top: 20px;
+    color: white;
+    opacity: 0.4;
+}
+.box3{
+    height: 260px;
+    width: 855px;
+    background-color: #3c4043;
+    color: white;
+}
+.one{
+    height: 200px;
+}
+.omada3{
+    width: 150px;
+    height: 80px;
+    margin-top: 30px;
+    float: right;
+}
+.two{
+    height: 200px;
+}
+ul a{
+    color: white;
+    margin-top: 30px;
+}
+.exp{
+    margin-top: 40px;
+}
+.three{
+    height: 200px;
+}
+ol a{
+    color: white;
+    margin-top: 50px;
+}
+.adv{
+    margin-top: 60px;
+}
+.four{
+    height: 200px;
+}
+.hori{
+    border-color: silver;
+}
+.omada4{
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+.copy{
+    margin-top: 30px;
+    color: white;
+}
