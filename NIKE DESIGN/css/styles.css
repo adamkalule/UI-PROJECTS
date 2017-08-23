@@ -1,0 +1,124 @@
+body,html{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    height: 100%;
+    background-color: #f54900;
+    margin: 0px;
+}
+.nike{
+    width: 78px;
+    height: 93px;
+    margin-left: 141px;
+}
+.navigation{
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+ul a{
+    padding-left: 40px;
+    color: #fe7739;
+}
+.men{
+    color: #fff1db;
+}
+.nike1{
+    width: 62px;
+    height: 33px;
+    margin-left:50px;
+}
+.box1{
+    height: 550px;
+    border: 1px solid #fe4c00;
+    background-color: #fe4c00;
+}
+.box11{
+    height: 550px;
+    border: 1px solid #fe4c00;
+}
+.ninety{
+    height: 50px;
+    width: 100px;
+    margin-top: 20px;
+}
+.arrowleft{
+    height: 30px;
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 130px;
+}
+.max{
+    font-size: 40px;
+    margin-left: 290px;
+    color: white;
+    margin-top: -50px;
+}
+.hori{
+    width: 120px;
+    border: 3px solid white;
+    margin-right: 547px;
+    margin-top: -5px;
+}
+.arrowright{
+    height: 30px;
+    width: 30px;
+    margin-left: 670px;
+    margin-top: -120px;
+}
+.ni{
+    height: 50px;
+    width: 80px;
+    margin-right: -260px;
+    margin-top: -100px;
+    margin-left: 185px;
+}
+.airmax{
+    width: 500px;
+    height: 230px;
+    margin-left: 200px;
+    margin-bottom: -87px;
+}
+.mybox{
+    width: 600px;
+    height: 220px;
+    border: 1px solid white;
+    background-color: #f3dcd2;
+    margin-left: 150px;
+}
+.myb{
+    height: 80px;
+    margin-top: 100px;
+}
+.button{
+    width: 120px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 30px;
+    border-radius: 45px;
+    
+}
+.caret{
+    color: #fe4c00;
+}
+.my{
+   margin-top: -80px; 
+}
+.blackamazon{
+    width:50px;
+    height: 50px;
+    margin-left: 575px;
+    margin-top: -80px;
+}
+.one{
+    color: #fd6025;
+    margin-left: 470px;
+    margin-top: -30px;
+}
+.one1{
+    margin-left: 450px;
+    letter-spacing: 3px;
+    margin-top: -5px;
+}
